@@ -1,0 +1,37 @@
+{"name":"Algovera",
+"tokenSymbol":null,
+"daoOS":"https://snapshot.org/#/algovera.eth",
+"address":null,
+"description":"Algovera is an organization building the infrastructure for decentralized artificial intelligence development, deployment, and governance. Its community consists of data scientists, software engineers, and other domain experts building AI products to tackle some of society’s largest challenges, including Web3 applications of large language models (LLMs), AI systems for regenerating natural environments and safer AI systems that are better aligned with communities. To help the community in their development, Algovera Labs is developing open source software for data scientists to enable easy interactions with decentralized data marketplaces such as Ocean Protocol and to bring the entire machine learning training and deployment pipeline to the peer-to-peer web with privacy preserving decentralized computation and storage.",
+"whitePaperLink":"https://docs.algovera.ai/docs/Handbook/Introduction",
+"gallery":[{
+       "name": "Intro",
+       "description": "Intro",
+       "mediaUrl": "https://i.imgur.com/oO0AbC3.png",
+       "source": "image",
+       "link": "https://app.dework.xyz/algovera?inviteId=054c60ed-b958-4f1c-bbf6-de7553c40054"
+   },  {"name": "Intro",
+       "description": "Intro",
+       "mediaUrl": null,        "source": "image",
+       "link": null  },
+ {"name": "Intro",
+       "description": "Intro",
+       "mediaUrl": null,     
+"source": "image",
+       "link": null  }
+],
+"deleted":false,
+"primaryColor":"#6d70f2",
+"twitterHandle":"AlgoveraAI",
+"coingeckoId":"",
+"snapshotId":"https://snapshot.org/#/algovera.eth",
+"logo":"https://i.imgur.com/EYEm53L.png",
+"telegramLink":"",
+"discordLink":"",
+"website":"www.algovera.ai",
+"tokenDescription":"",
+"tokenTradeLink":"",
+
+"tags":"Decentralized Funding, Ecosystems, Data Storage"
+  
+}
