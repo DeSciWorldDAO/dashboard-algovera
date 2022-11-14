@@ -10,15 +10,7 @@
        "mediaUrl": "https://i.imgur.com/oO0AbC3.png",
        "source": "image",
        "link": "https://app.dework.xyz/algovera?inviteId=054c60ed-b958-4f1c-bbf6-de7553c40054"
-   },  {"name": "Intro",
-       "description": "Intro",
-       "mediaUrl": null,        "source": "image",
-       "link": null  },
- {"name": "Intro",
-       "description": "Intro",
-       "mediaUrl": null,     
-"source": "image",
-       "link": null  }
+   }
 ],
 "deleted":false,
 "primaryColor":"#6d70f2",
